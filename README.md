@@ -14,3 +14,6 @@ Today we are learning GitHub and Markdown
 
 ## Link to a page
 [Spiced Academy](https://www.spiced-academy.com)
+
+## Image
+![Image discription](https://www.ekhartyoga.com/media/images/articles/content/Warrior-2-yoga-pose-Virabhadrasana-II-Ekhart-Yoga.jpg)
