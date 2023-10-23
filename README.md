@@ -16,4 +16,9 @@ Today we are learning GitHub and Markdown
 [Spiced Academy](https://www.spiced-academy.com)
 
 ## Image
+
+###add an image with url
 ![Image discription](https://www.ekhartyoga.com/media/images/articles/content/Warrior-2-yoga-pose-Virabhadrasana-II-Ekhart-Yoga.jpg)
+
+### add local image
+![warrrior2](./warrior2.jpg)
