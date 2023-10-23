@@ -21,13 +21,13 @@ Today we are learning GitHub and Markdown
 ![Image discription](https://www.ekhartyoga.com/media/images/articles/content/Warrior-2-yoga-pose-Virabhadrasana-II-Ekhart-Yoga.jpg)
 
 ### add local image
-![warrrior2](./warrior2.jpg)
+![warrrior2](./warrior2.jpeg)
 
-##Code
-###Code Line 
+## Code
+### Code Line 
 We can add a code via ´console.log("Almost done")´
 
-###Code Block
+### Code Block
 {
   "firstName": "John",
   "lastName": "Smith",
