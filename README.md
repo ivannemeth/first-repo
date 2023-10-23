@@ -1,5 +1,6 @@
 # Learning GitHub and Markdown
 Today we are learning GitHub and Markdown
+
 ## List Md 
 ### Order List
 1. First item
@@ -10,3 +11,6 @@ Today we are learning GitHub and Markdown
 - First item
 - Second item
 - Third item
+
+## Link to a page
+[Spiced Academy](https://www.spiced-academy.com)
