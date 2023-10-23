@@ -28,10 +28,13 @@ Today we are learning GitHub and Markdown
 We can add a code via ´console.log("Almost done")´
 
 ### Code Block
+
+	```
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
+```
 
 
