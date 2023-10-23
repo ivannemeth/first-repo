@@ -22,3 +22,9 @@ Today we are learning GitHub and Markdown
 
 ### add local image
 ![warrrior2](./warrior2.jpg)
+
+##Code
+###Code Line 
+We can add a code via ´console.log("Almost done")´
+
+
